@@ -1,0 +1,8 @@
+{
+  "name": "bbcli_test",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/nikhilvneoito/bbcli_test",
+    "ssh": "git@github.com:nikhilvneoito/bbcli_test.git"
+  }
+}
